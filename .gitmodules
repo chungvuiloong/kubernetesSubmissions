@@ -1,0 +1,6 @@
+[submodule "logoutput"]
+	path = logoutput
+	url = https://github.com/chungvuiloong/logoutput
+[submodule "todo-app"]
+	path = todo-app
+	url = https://github.com/chungvuiloong/todo-app
