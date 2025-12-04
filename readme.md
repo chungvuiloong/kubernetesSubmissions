@@ -4,8 +4,9 @@
 
 ### Chapter 2
 
-- [1.1.](https://github.com/chungvuiloong/logoutput)
-- [1.2.](https://github.com/chungvuiloong/todo-app)
+- [1.1.](https://github.com/chungvuiloong/kubernetesSubmissions/releases/tag/1.1)
+- [1.2.](https://github.com/chungvuiloong/kubernetesSubmissions/releases/tag/1.2)
+- [1.3.](https://github.com/chungvuiloong/kubernetesSubmissions/releases/tag/1.3)
 
 <!-- - [1.2.](https://github.com/mluukkai/KubernetesSubmissions/tree/1.2/the_project)
 - [1.3.](https://github.com/mluukkai/KubernetesSubmissions/tree/1.3/log_output)
